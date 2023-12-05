@@ -1,0 +1,16 @@
+---Markdown---
+ 1. How to make a comment
+ 2. Normal text & new line
+ 3. Horizontal rule
+ 4. Headings
+ 5. Paragraph
+ 6. Italic
+ 7. Bold
+ 8. Strikethrough
+ 9. Inline code block
+ 10. Multiple line code block
+ 11. List
+ 12. Link
+ 13. Image
+ 14. Emoji
+ 15. Table
